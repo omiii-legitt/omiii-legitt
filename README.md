@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/omiii-legitt"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=omiii-legitt&fontSize=76&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Web%20%26%20Applied%20ML%20Projects&descSize=23&descAlignY=64" width="100%" alt="omiii-legitt · Web and applied ML projects" /></a>
+  <img src="./profile-banner.svg" width="100%" alt="omiii-legitt · Web and applied ML projects" />
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+building+useful+things.;%3E+exploring+data+and+interfaces.;%3E+learning+by+making." width="100%" alt="Building useful things, exploring data and interfaces, learning by making" />
 </p>
 
@@ -61,5 +61,5 @@ I build web projects and explore applied machine learning, from data-rich dashbo
 <p align="center">
   <a href="https://github.com/omiii-legitt"><img src="https://img.shields.io/badge/let's_connect-A21517?style=for-the-badge" alt="Connect on GitHub" /></a>
 </p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:A21517,100:0A0A0A&height=90&section=footer&text=curiosity%20in%2C%20useful%20things%20out&fontSize=28&fontColor=FFFFFF&fontAlignY=52" width="100%" alt="Curiosity in, useful things out" /></p>
+<p align="center"><sub>curiosity in, useful things out</sub></p>
 
