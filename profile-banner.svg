@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title description">
+  <title id="title">omiii-legitt</title>
+  <desc id="description">Web and applied machine learning projects</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0A0A0A" />
+      <stop offset="100%" stop-color="#A21517" />
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ECBDD8" stop-opacity="0.22" />
+      <stop offset="100%" stop-color="#ECBDD8" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="220" rx="28" fill="url(#background)" />
+  <circle cx="1050" cy="-10" r="250" fill="url(#glow)" />
+  <path d="M850 220 1100 0h100v220z" fill="#0A0A0A" opacity="0.13" />
+  <text x="66" y="105" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="66" font-weight="700">omiii-legitt</text>
+  <text x="70" y="157" fill="#ECBDD8" font-family="Segoe UI, Arial, sans-serif" font-size="25" letter-spacing="3">WEB  ·  APPLIED ML PROJECTS</text>
+  <rect x="1114" y="78" width="8" height="68" rx="4" fill="#E5EE4E" />
+</svg>
+
